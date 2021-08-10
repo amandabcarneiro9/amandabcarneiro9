@@ -13,7 +13,6 @@ I'm brazilian, living in Amsterdam 💁‍♀️
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandabcarneiro9&layout=compact&langs_count=16&theme=dracula" />
   </a>
 </div>
-
 <div style="display: inline_block"> <br>
   <img align="center" alt="Amanda-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width:100%;"> 
   <img align="center" alt="Amanda-React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" style="max-width:100%;">
@@ -21,6 +20,7 @@ I'm brazilian, living in Amsterdam 💁‍♀️
   <img align="center" alt="Amanda-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width:100%;">
   <img align="center" alt="Amanda-Sass" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" style="max-width:100%;">
   <img align="center" alt="Amanda-mysql" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" style="max-width:100%;">
+  <img align="center" alt="Amanda-php" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" style="max-width:100%;">
   <img align="center" alt="Amanda-laravel" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" style="max-width:100%;">
   
 </div>
