@@ -2,9 +2,8 @@
 
 I'm Brazilian, living in Amsterdam 💁‍♀️
 
-- 🔭 I’m currently working as a front-end developer with React, React Native, Typescript, Javascript, Node.js, Nextjs
+- 🔭 I’m currently working as a front-end developer for Brthrs with React, React Native, Typescript, Javascript, Node.js, Nextjs
 - 🌱 I’m currently learning TDD and Firebase integrations
-- 🤔 I’m looking for a Front End job.
 - 📫 You can find me here: https://www.linkedin.com/in/amandabcarneiro/ and by email:amandabcarneiro@gmail.com
 
 <div align="center">
