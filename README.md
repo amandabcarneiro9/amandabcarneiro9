@@ -1,18 +1,12 @@
 ### Hello, I'm Amanda Carneiro 🖤
 
-I'm brazilian, living in Amsterdam 💁‍♀️
+I'm Brazilian, living in Amsterdam 💁‍♀️
 
-- 🔭 I’m currently working as a front end developer with React, React Native, Typescript, Javascript, Node.js, Nextjs
+- 🔭 I’m currently working as a front-end developer with React, React Native, Typescript, Javascript, Node.js, Nextjs
 - 🌱 I’m currently learning TDD and Firebase integrations
 - 🤔 I’m looking for a Front End job.
 - 📫 You can find me here: https://www.linkedin.com/in/amandabcarneiro/ and by email:amandabcarneiro@gmail.com
 
-<div>
-  <a href="https://www.linkedin.com/in/amandabcarneiro/">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amandabcarneiro9&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandabcarneiro9&layout=compact&langs_count=16&theme=dracula" />
-  </a>
-</div>
 <div align="center">
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108895-20dc3343-43e3-4a54-a90e-13a4abbc57b9.png" alt="Android Studio" title="Android Studio"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/186711578-bf30cb30-40b7-4b45-95a5-bdf837c372e7.png" alt="Xcode" title="Xcode"/></code>
